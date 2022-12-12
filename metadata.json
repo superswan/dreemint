@@ -1,0 +1,16 @@
+{
+  "description": "Generate your own NFT from prompt", 
+  "external_url": "https://twitter.com/80386cpu", 
+  "image": "", 
+  "name": "",
+  "attributes": [
+    {
+      "trait_type": "Prompt", 
+      "value": "Prompt goes here"
+    }, 
+    {
+      "trait_type": "Token Standard", 
+      "value": "ERC721"
+    }
+  ]
+}
